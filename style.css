@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(43, 43, 180, 0.493);
+}
+
+h1{
+    color:white;
+    border: double;
+}
+
+.titulo{
+    color:rgba(57, 2, 73, 0.726);
+    text-align: center;
+}
